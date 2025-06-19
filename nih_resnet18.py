@@ -8,12 +8,11 @@ from tqdm import tqdm
 from sklearn.metrics import roc_auc_score, accuracy_score, f1_score
 from torchvision.models import resnet18, ResNet18_Weights
 
-# 推荐使用 DEFAULT，始终使用最新的默认权重
-model = resnet18(weights=ResNet18_Weights.DEFAULT)
 import torch
 import torch.nn as nn
 from torch.utils.data import Dataset, DataLoader
 from torchvision import models, transforms
+
 
 # ========== Environment Setup ==========
 os.environ["CUDA_VISIBLE_DEVICES"] = "0"
