@@ -1,0 +1,7 @@
+torch==2.4.1
+torchvision==0.19.1
+pandas==2.2.3
+numpy==2.0.1
+matplotlib==3.10.1
+opencv-python==4.11.0.86
+tqdm==4.67.1 
