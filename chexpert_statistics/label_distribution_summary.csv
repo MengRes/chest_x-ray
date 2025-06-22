@@ -1,0 +1,15 @@
+Class,Train_Count,Train_Percentage,Valid_Count,Valid_Percentage
+No Finding,22381,10.02%,38,16.24%
+Enlarged Cardiomediastinum,23201,10.38%,109,46.58%
+Cardiomegaly,35087,15.70%,68,29.06%
+Lung Opacity,111179,49.76%,126,53.85%
+Lung Lesion,10674,4.78%,1,0.43%
+Edema,65230,29.20%,45,19.23%
+Consolidation,42525,19.03%,33,14.10%
+Pneumonia,24809,11.10%,8,3.42%
+Atelectasis,67115,30.04%,80,34.19%
+Pneumothorax,22593,10.11%,8,3.42%
+Pleural Effusion,97815,43.78%,67,28.63%
+Pleural Other,6176,2.76%,1,0.43%
+Fracture,9682,4.33%,0,0.00%
+Support Devices,117080,52.40%,107,45.73%
